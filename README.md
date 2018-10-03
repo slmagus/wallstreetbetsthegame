@@ -1,0 +1,3 @@
+<img src="https://raw.githubusercontent.com/kitao/slmagus/master/pyxel/examples/examples.png">
+
+Lol I have no idea what I am doing...
