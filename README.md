@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/slmagus/wallstreetsbetsgame/master/examples/example.png">
+<img src="https://raw.githubusercontent.com/slmagus/wallstreetsbetsthegame/master/examples/examples.png">
 
 Lol I have no idea what I am doing...
